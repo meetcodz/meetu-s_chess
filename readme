@@ -1,0 +1,13 @@
+
+A GUI-based chess game built using Python and Pygame.
+
+- Full chess rules
+- Graphical board and pieces
+- Player vs Player (AI optional)
+
+- Python 3.10+
+- Pygame
+
+pip install -r requirements.txt
+
+python main.py
